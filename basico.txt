@@ -1,0 +1,19 @@
+######### BÁSICO #########
+- Diseño del escenario
+- Diseño de personajes 
+- Diseño de objetos
+- Fisicas del balón
+- Añadir los modelos desde Blender a Unreal
+- Creación del menú inicial
+- Camará fija en el escenario
+- Skins de personajes
+- Contador
+- Máximo de goles
+
+######### AVANZADO #########
+- Desbloqueo de skins/personajes
+	- Personajes
+	- Pelotas
+	- Skins de personajes
+	- Campo
+
